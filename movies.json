@@ -1,0 +1,143 @@
+{
+    "movies": [
+      {
+        "title": "The Shawshank Redemption",
+        "category": "Popular",
+        "genre": ["Drama", "Crime"],
+        "poster": "https://th.bing.com/th/id/OIP.k0iF7TLbHjpa-h_UBiYWNQHaKd?pid=ImgDet&rs=1"
+      },
+      {
+        "title": "Oppenhiemer",
+        "category": "Popular",
+        "genre": ["Science Fiction", "Action"],
+        "poster": "https://assets-prd.ignimgs.com/2022/07/21/oppenheimer-poster-1658411601593.jpeg"
+      },
+      {
+        "title": "Toy Story",
+        "category": "Popular",
+        "genre": ["Animation", "Adventure", "Comedy"],
+        "poster": "https://th.bing.com/th/id/OIP.7SGqfmlJYH0wmH6tZvGWCAHaLH?pid=ImgDet&rs=1"
+      },
+      {
+        "title": "The Godfather",
+        "category": "Top Rated",
+        "genre": ["Drama", "Crime"],
+        "poster": "https://i.pinimg.com/originals/e0/0c/65/e00c65ab6a7dacccd276c2fd434de8f5.jpg"
+      },
+      {
+        "title": "The Dark Knight",
+        "category": "Top Rated",
+        "genre": ["Action", "Crime", "Drama"],
+        "poster": "https://cdn.shopify.com/s/files/1/1416/8662/products/dark_knight_english_original_film_art_spo_5000x.jpg?v=1568854010"
+      },
+      {
+        "title": "Avatar",
+        "category": "Upcoming",
+        "genre": ["Action", "Adventure", "Science Fiction"],
+        "poster": "https://th.bing.com/th/id/OIP.lsyx5H7-NVMaVV81D1pYdQHaLH?pid=ImgDet&rs=1"
+      },
+      {
+        "title": "Mad Max Fury Road",
+        "category": "Top Rated",
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "poster": "https://th.bing.com/th/id/OIP.X0Gg04IloK3mlZ1v1R6zBAHaK-?pid=ImgDet&rs=1"
+      },
+      {
+        "title": "Joker ",
+        "category": "Popular",
+        "genre": ["Action", "Crime", "Drama"],
+        "poster": "https://th.bing.com/th/id/OIP.SYfxn-HRBQiRR6K6hfwq_wHaK-?pid=ImgDet&rs=1"
+      },
+      {
+        "title": "Boss Baby",
+        "category": "Upcoming",
+        "genre": ["Animation", "Adventure", "Comedy"],
+        "poster": "https://th.bing.com/th/id/OIP.2gO6xhzjiGiww7kS_MHbXgHaLH?pid=ImgDet&rs=1"
+      },
+      {
+        "title": "Jurassic Park",
+        "category": "Popular",
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "poster": "https://th.bing.com/th/id/OIP.GpYCK8U5jNTjTXSv_trl8QHaLG?pid=ImgDet&rs=1"
+      },
+      {
+        "title": "Titanic",
+        "category": "Top Rated",
+        "genre": ["Drama", "Romance"],
+        "poster": "https://th.bing.com/th/id/R.0417df1eed64c5962fe5e2d7fe53e5dc?rik=zbFtP4yY9pE0vA&riu=http%3a%2f%2fkoolcampus.files.wordpress.com%2f2012%2f04%2ftitanic-malaysian-poster.jpg&ehk=GF2md7Fe1nYxhb3nqavy4fTLXWYnnnV8ivb%2b2U%2bC9NI%3d&risl=&pid=ImgRaw&r=0"
+      },
+      {
+        "title": "Nobody",
+        "category": "Top Rated",
+        "genre": ["Drama", "Crime"],
+        "poster": "https://th.bing.com/th/id/OIP.NQYW22wqT1FZ67A3f_e4yQHaK9?pid=ImgDet&rs=1"
+      },
+      {
+        "title": "Extraction",
+        "category": "popular",
+        "genre": ["action", "adventure", "science", "thriller"],
+        "posterLink": "https://th.bing.com/th/id/OIP.OBV7Yht4zASDo7sfH_rJTwHaLH?pid=ImgDet&rs=1"
+      },
+      {
+        "title": "Forest gump",
+        "category": "top rated",
+        "genre": ["drama", "crime"],
+        "posterLink": "https://th.bing.com/th/id/OIP.SoTin_IJWjPr74_PiZq6ZwHaLH?pid=ImgDet&rs=1"
+      },
+      {
+        "title": "The Lion King",
+        "category": "popular",
+        "genre": ["animation", "adventure", "family"],
+        "posterLink": "https://image.tmdb.org/t/p/original/AqxziiwYoRH9yQLUxMVHJ6rSt2n.jpg"
+      },
+      {
+        "title": "Interstellar",
+        "category": "popular",
+        "genre": ["science", "adventure", "drama"],
+        "posterLink": "https://cdn.shopify.com/s/files/1/1416/8662/products/interstellar_2014_advance_original_film_art_682852f2-23f6-46de-a1db-4029d5b6f0b4_2000x.jpg?v=1574284010"
+      },
+      {
+        "title": "Joker",
+        "category": "popular",
+        "genre": ["crime", "drama", "thriller"],
+        "posterLink": "https://i2.wp.com/batman-news.com/wp-content/uploads/2019/08/Joker-Official-Images-Final-Poster-01.jpg?fit=2764%2C4096&quality=80&strip=info&ssl=1"
+      },
+      {
+        "title": "Uncharted",
+        "category": "popular",
+        "genre": ["action", "adventure", "science", "thriller"],
+        "poster": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/12/Uncharted-poster.jpg"
+      },
+      {
+        "title": "Training Day",
+        "category": "top rated",
+        "genre": ["drama", "crime"],
+        "poster": "https://i5.walmartimages.com/asr/f9624254-8a78-45ea-86e6-e95e9272ea7f.ca7d1716d4478bb0de29e06c72285e7e.jpeg"
+      },
+      {
+        "title": "Despicable Me",
+        "category": "upcoming",
+        "genre": ["animation", "adventure", "comedy", "family"],
+        "poster": "https://image.tmdb.org/t/p/original/bRZT3dAv85TWLmQj4fhQg06W07D.jpg"
+      },
+      {
+        "title": "Parasite",
+        "category": "popular",
+        "genre": ["comedy", "drama", "thriller"],
+        "poster": "https://image.tmdb.org/t/p/original/5uz9Se5HBxxPdJY38rPfyWUyjDZ.jpg"
+      },
+      {
+        "title": "Journey to the centre of earth",
+        "category": "top rated",
+        "genre": ["action", "adventure", "science"],
+        "poster": "https://th.bing.com/th/id/OIP.G9WIu3F3c4LE4zpuJtQNpAHaLH?pid=ImgDet&rs=1"
+      },
+      {
+        "title": "A Quiet Place Part II",
+        "category": "upcoming",
+        "genre": ["horror", "thriller", "science"],
+        "poster": "https://i1.wp.com/www.socialnews.xyz/wp-content/uploads/2020/02/26/a-quiet-place-part-II-Movie-HD-poster--scaled.jpg?quality=90&zoom=1&ssl=1"
+      }
+    ]
+  }
+  
